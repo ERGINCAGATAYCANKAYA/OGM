@@ -1,0 +1,486 @@
+<html xmlns:o='urn:schemas-microsoft-com:office:office'  xmlns:w='urn:schemas-microsoft-com:office:word' xmlns='http://www.w3.org/TR/REC-html40' ><head>
+                <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-9"/>
+
+        
+        <style>
+.richtext u
+{
+color:#003399;
+}
+.richtext u p
+{
+color:#003399;
+}
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:"Arial Narrow";
+	panose-1:2 11 6 6 2 2 2 3 2 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:black;}
+h1
+	{margin:0cm;
+	text-align:center;
+	page-break-after:avoid;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:10.0pt;
+	font-family:"Arial","sans-serif";
+	color:black;
+	font-weight:bold;
+	text-decoration:underline;
+    margin-top: 1pt; 
+    margin-bottom: 1pt;}
+h2
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	page-break-after:avoid;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:10.0pt;
+	font-family:"Arial","sans-serif";
+	color:black;
+	font-weight:bold;}
+h3
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:3.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-indent:17.0pt;
+	page-break-after:avoid;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif";
+	color:black;
+	font-weight:bold;}
+h4
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	page-break-after:avoid;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif";
+	color:black;
+	font-weight:bold;}
+h5
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:3.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-indent:35.4pt;
+	page-break-after:avoid;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:black;
+	font-weight:bold;}
+h6
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	text-indent:35.4pt;
+	page-break-after:avoid;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:black;
+	font-weight:bold;}
+p.MsoHeading7, li.MsoHeading7, div.MsoHeading7
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	page-break-after:avoid;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:black;
+	font-weight:bold;}
+p.MsoHeading8, li.MsoHeading8, div.MsoHeading8
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:18.0pt;
+	page-break-after:avoid;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:12.0pt;
+	font-family:"Arial","sans-serif";
+	color:black;
+	font-weight:bold;}
+p.MsoHeading9, li.MsoHeading9, div.MsoHeading9
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:3.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-indent:35.4pt;
+	page-break-after:avoid;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:12.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;
+	font-weight:bold;}
+p.MsoFootnoteText, li.MsoFootnoteText, div.MsoFootnoteText
+	{mso-style-name:"Footnote Text\,Dipnot Metni Char Char Char\,Dipnot Metni Char Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif";
+	color:black;}
+p.MsoCommentText, li.MsoCommentText, div.MsoCommentText
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif";
+	color:black;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Times New Roman","serif";
+	color:black;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Times New Roman","serif";
+	color:black;}
+span.MsoFootnoteReference
+	{vertical-align:super;}
+span.MsoEndnoteReference
+	{vertical-align:super;}
+p.MsoEndnoteText, li.MsoEndnoteText, div.MsoEndnoteText
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif";
+	color:black;}
+p.MsoTitle, li.MsoTitle, div.MsoTitle
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:black;
+	font-weight:bold;}
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	line-height:150%;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:10.0pt;
+	font-family:"Arial","sans-serif";
+	color:black;
+	font-weight:bold;}
+p.MsoBodyTextIndent, li.MsoBodyTextIndent, div.MsoBodyTextIndent
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:42.55pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-16.65pt;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:black;}
+p.MsoBodyText2, li.MsoBodyText2, div.MsoBodyText2
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:0cm;
+	line-height:200%;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Times New Roman","serif";
+	color:black;}
+p.MsoBodyText3, li.MsoBodyText3, div.MsoBodyText3
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:0cm;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:8.0pt;
+	font-family:"Times New Roman","serif";
+	color:black;}
+p.MsoBodyTextIndent2, li.MsoBodyTextIndent2, div.MsoBodyTextIndent2
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-9.55pt;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:black;}
+p.MsoBodyTextIndent3, li.MsoBodyTextIndent3, div.MsoBodyTextIndent3
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:9.0pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:windowtext;}
+p.MsoBlockText, li.MsoBlockText, div.MsoBlockText
+	{margin-top:0cm;
+	margin-right:396.2pt;
+	margin-bottom:0cm;
+	margin-left:18.0pt;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Arial Narrow","sans-serif";
+	color:windowtext;}
+p
+	{margin-right:0cm;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:black;}
+p.MsoCommentSubject, li.MsoCommentSubject, div.MsoCommentSubject
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif";
+	color:black;
+	font-weight:bold;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";
+	color:black;}
+p.BodyText24, li.BodyText24, div.BodyText24
+	{mso-style-name:"Body Text 24";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif";
+	color:black;}
+p.BodyText23, li.BodyText23, div.BodyText23
+	{mso-style-name:"Body Text 23";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:3.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-indent:17.0pt;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif";
+	color:black;
+	font-weight:bold;}
+p.BodyTextIndent21, li.BodyTextIndent21, div.BodyTextIndent21
+	{mso-style-name:"Body Text Indent 21";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:35.4pt;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:black;
+	font-weight:bold;}
+p.BodyTextIndent31, li.BodyTextIndent31, div.BodyTextIndent31
+	{mso-style-name:"Body Text Indent 31";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:35.4pt;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:black;}
+p.DocumentMap1, li.DocumentMap1, div.DocumentMap1
+	{mso-style-name:"Document Map1";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	background:navy;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Tahoma","sans-serif";
+	color:black;}
+p.BodyText31, li.BodyText31, div.BodyText31
+	{mso-style-name:"Body Text 31";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	line-height:108%;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:black;}
+p.BlockText1, li.BlockText1, div.BlockText1
+	{mso-style-name:"Block Text1";
+	margin-top:0cm;
+	margin-right:.2pt;
+	margin-bottom:0cm;
+	margin-left:7.1pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:63.7pt;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:12.0pt;
+	font-family:"Arial","sans-serif";
+	color:black;}
+p.BodyText22, li.BodyText22, div.BodyText22
+	{mso-style-name:"Body Text 22";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:35.4pt;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:windowtext;}
+span.normal1
+	{mso-style-name:normal1;}
+p.3-NormalYaz, li.3-NormalYaz, div.3-NormalYaz
+	{mso-style-name:"3-Normal Yazı";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	font-size:9.5pt;
+	font-family:"Times New Roman","serif";
+	color:windowtext;}
+p.BodyText21, li.BodyText21, div.BodyText21
+	{mso-style-name:"Body Text 21";
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:windowtext;}
+ /* Page Definitions */
+p.MsoFooter, li.MsoFooter, div.MsoFooter{margin:0in;margin-bottom:.0001pt;mso-pagination:widow-orphan;tab-stops:center 3.0in right 6.0in;font-size:12.0pt;font-weight:bold;}
+ @page Section1
+	{size:21.0cm 842.0pt;
+    mso-footer: f1;
+	margin:63.8pt 35.4pt 42.55pt 70.9pt;}
+div.Section1
+	{page:Section1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+
+</style>
+
+
+            
+                   </head>
+                <body>
+<div class=Section1>
+
+        <p class=MsoNormal style="margin-bottom:6.0pt;text-align: justify"><p/><p class=MsoNormal style="text-align: justify"><p/><p class=MsoNormal style="text-align: justify">						<p/><p class=MsoNormal style="text-align: justify">				<p class=MsoBodyText align=center style='margin-bottom:6.0pt;text-align:center;
+line-height:normal'><span style='font-size:12.0pt;font-family:"Times New Roman","serif";
+color:windowtext'><b><span class='richtext'><u style='text-underline:dotted'>İstanbul Orman Bölge Müdürlüğü 326 Adet Gözlem Noktasında Ulusal Orman Envanteri İş ve İşlemleri</u></span></b> <p class=MsoBodyText align=center style='margin-bottom:6.0pt;text-align:center;
+line-height:normal'><span style='font-size:12.0pt;font-family:"Times New Roman","serif";
+color:windowtext'>HİZMETİ ALIMINA AİT SÖZLEŞME TASARISI</span></p><p/><p class=MsoNormal style="text-align: justify">				<p/><p class=MsoNormal style="text-align: justify">	</p><p class=MsoNormal style="margin-bottom:6.0pt;text-align: justify"><p/><p class=MsoNormal style="text-align: justify">	İKN (İhale Kayıt Numarası): <b><span class='richtext'><u style='text-underline:dotted'>2025/474873</u></span></b><p/><p class=MsoNormal style="text-align: justify">	<p class=MsoNormal style='margin-top:6.0pt;margin-bottom:0.0pt;text-align:justify'><b><span
+style='font-size:12.0pt;color:windowtext'>Madde 1 - Sözleşmenin tarafları</span></b></p>  <p/><p class=MsoNormal style="text-align: justify">	Bu Sözleşme, bir tarafta <b><span class='richtext'><u style='text-underline:dotted'>Orman İşletme Müdürlüğü-İstanbul DİĞER ÖZEL BÜTÇELİ KURULUŞLAR ORMAN GENEL MÜDÜRLÜĞÜ</u></span></b> (bundan sonra İdare olarak anılacaktır) ile diğer tarafta ............................................................ (bundan sonra Yüklenici olarak anılacaktır) arasında aşağıda yazılı şartlar dahilinde akdedilmiştir.<p/><p class=MsoNormal style="text-align: justify">	</p><p class=MsoNormal style="margin-bottom:6.0pt;text-align: justify"><span style='font-weight:normal;'><p/><p class=MsoNormal style="text-align: justify">						<p class=MsoNormal style='margin-top:6.0pt;margin-bottom:0.0pt;text-align:justify'><b><span
+style='font-size:12.0pt;color:windowtext'>Madde 2 - Taraflara ilişkin bilgiler</span></b></p><p/><p class=MsoNormal style="text-align: justify">						<b>2.1.</b> İdarenin<p/><p class=MsoNormal style="text-align: justify">						<div class=MsoNormal style='margin-left:35.45pt;text-align:justify'>a) Adı:<b><span class='richtext'><u style='text-underline:dotted'>Orman İşletme Müdürlüğü-İstanbul DİĞER ÖZEL BÜTÇELİ KURULUŞLAR ORMAN GENEL MÜDÜRLÜĞÜ</u></span></b><p/><p class=MsoNormal style="text-align: justify">						b) Adresi:<b><span class='richtext'><u style='text-underline:dotted'>İstanbul Orman Bölge Müdürlüğü Fatih Ormanı Kampüsü Büyükdere Cad. No:267 Maslak Sarıyer/İSTANBUL 34398 MASLAK</u></span></b> - <b><span class='richtext'><u style='text-underline:dotted'>SARIYER</u></span></b> / <b><span class='richtext'><u style='text-underline:dotted'>İSTANBUL</u></span></b><p/><p class=MsoNormal style="text-align: justify">						c) Telefon numarası:<b><span class='richtext'><u style='text-underline:dotted'>2122627709</u></span></b><p/><p class=MsoNormal style="text-align: justify">						ç) Faks numarası:<b><span class='richtext'><u style='text-underline:dotted'>2126260226</u></span></b><p/><p class=MsoNormal style="text-align: justify">						d) Elektronik posta adresi(varsa):<b><span class='richtext'><u style='text-underline:dotted'>istanbulisl@ogm.gov.tr</u></span></b><p/><p class=MsoNormal style="text-align: justify">						e) Elektronik tebligat adresi :<b><span class='richtext'><u style='text-underline:dotted'>istanbulisl@ogm.gov.tr </u></span></b><p/><p class=MsoNormal style="text-align: justify">						</div><p/><p class=MsoNormal style="text-align: justify">					</span></p><p class=MsoNormal style="margin-bottom:6.0pt;text-align: justify"><p/><p class=MsoNormal style="text-align: justify">      <b>2.2.</b> Yüklenicinin<p/><p class=MsoNormal style="text-align: justify">      <div class=MsoNormal style='margin-left:35.45pt;text-align:justify'>a) Adı ve soyadı/Ticaret unvanı: ...........................................<p/><p class=MsoNormal style="text-align: justify">      b) T.C. Kimlik No: ...............................................................<p/><p class=MsoNormal style="text-align: justify">      c) Vergi Kimlik No: ..............................................................<p/><p class=MsoNormal style="text-align: justify">      ç) Yüklenicinin tebligata esas adresi: ...........................................<p/><p class=MsoNormal style="text-align: justify">      d) Telefon numarası: .............................................................<p/><p class=MsoNormal style="text-align: justify">      e) Bildirime esas faks numarası: .................................................<p/><p class=MsoNormal style="text-align: justify">      f) Bildirime esas elektronik posta adresi (varsa): ...............................<p/><p class=MsoNormal style="text-align: justify">		  g) Elektronik tebligat adresi : ..................................................<p/><p class=MsoNormal style="text-align: justify">      </div><p/><p class=MsoNormal style="text-align: justify">      <b>2.3.</b>  Her iki taraf, 2.1. ve 2.2. maddelerinde belirtilen adreslerini tebligat adresi olarak kabul etmişlerdir. Adres değişiklikleri usulüne uygun şekilde karşı tarafa tebliğ edilmedikçe, en son bildirilen adrese yapılacak tebliğ, ilgili tarafa yapılmış sayılır.<p/><p class=MsoNormal style="text-align: justify">      <b>2.4.</b> Taraflar, yazılı tebligatı daha sonra süresi içinde yapmak kaydıyla, kurye, faks veya elektronik posta gibi diğer yollarla da bildirim yapabilirler.<p/><p class=MsoNormal style="text-align: justify">    </p><p class=MsoNormal style="margin-bottom:6.0pt;text-align: justify"><span style='font-weight:normal;'><p/><p class=MsoNormal style="text-align: justify">	<p class=MsoNormal style='margin-top:6.0pt;margin-bottom:0.0pt;text-align:justify'><b><span
+style='font-size:12.0pt;color:windowtext'>Madde 3 - Sözleşmenin dili</span></b></p><p/><p class=MsoNormal style="text-align: justify">	<b>3.1.</b> Sözleşme Türkçe olarak hazırlanmıştır.<p/><p class=MsoNormal style="text-align: justify">              </span></p><p class=MsoNormal style="margin-bottom:6.0pt;text-align: justify"><p/><p class=MsoNormal style="text-align: justify">	<p class=MsoNormal style='margin-top:6.0pt;margin-bottom:0.0pt;text-align:justify'><b><span
+style='font-size:12.0pt;color:windowtext'>Madde 4 - Tanımlar</span></b></p>  <p/><p class=MsoNormal style="text-align: justify">	<b>4.1.</b> Bu Sözleşmenin uygulanmasında, 4734 sayılı Kamu İhale Kanunu ve 4735 sayılı Kamu İhale Sözleşmeleri Kanunu ile Hizmet İşleri Genel Şartnamesinde (bundan sonra Genel Şartname olarak anılacaktır.) ve ihale dokümanını oluşturan diğer belgelerde yer alan tanımlar geçerlidir. <b><span class='richtext'><u style='text-underline:dotted'></u></span></b></p><p class=MsoNormal style="margin-bottom:6.0pt;text-align: justify"><span style='font-weight:normal;'><p/><p class=MsoNormal style="text-align: justify">	<p class=MsoNormal style='margin-top:6.0pt;margin-bottom:0.0pt;text-align:justify'><b><span
+style='font-size:12.0pt;color:windowtext'>Madde 5- İş tanımı</span></b></p> <p/><p class=MsoNormal style="text-align: justify">	<b>5.1.</b> Sözleşme konusu  iş; <b><span class='richtext'><u style='text-underline:dotted'>''Ulusal Orman Envanteri gözlem noktalarında, Örnek Alan Tanıtım Formu,  Ağaç Serveti, Artım ve Canlı Kütle Envanter Karnesi, Ölü Ağaç/Odun Envanter Karnesi, Diri Örtü Envanter Karnesi Düzenleme, Düzenlenen bu karnelerin veri tabanına girilmesi, Toprak Profili numuneleri ve Diğer Numunelerin İdarenin Yönlendirmiş Olduğu Laboratuvarlara Teslim Edilmesi” </u></span></b> İşin teknik özellikleri ve diğer ayrıntıları sözleşme ekinde yer alan ve ihale dokümanını oluşturan belgelerde düzenlenmiştir.				<p/><p class=MsoNormal style="text-align: justify">					</span></p><p class=MsoNormal style="margin-bottom:6.0pt;text-align: justify"><span style='font-weight:normal;'><p/><p class=MsoNormal style="text-align: justify">	<p class=MsoNormal style='margin-top:6.0pt;margin-bottom:0.0pt;text-align:justify'><b><span
+style='font-size:12.0pt;color:windowtext'>Madde 6 - Sözleşmenin türü ve bedeli</span></b></p> <p/><p class=MsoNormal style="text-align: justify">	<b>6.1.</b> Bu sözleşmenin toplam götürü bedeli .........................(rakam ve yazıyla)........................... dir<p/><p class=MsoNormal style="text-align: justify">				</span></p><p class=MsoNormal style="margin-bottom:6.0pt;text-align: justify"><span style='font-weight:normal;'><p/><p class=MsoNormal style="text-align: justify">	<p class=MsoNormal style='margin-top:6.0pt;margin-bottom:0.0pt;text-align:justify'><b><span
+style='font-size:12.0pt;color:windowtext'>Madde 7 - Sözleşme bedeline dahil olan giderler</span></b></p>				<p/><p class=MsoNormal style="text-align: justify">	<b>7.1.</b> Taahhüdün yerine getirilmesine ilişkin <b><span class='richtext'><u style='text-underline:dotted'>sözleşmenin uygulanması sırasında, ilgili mevzuat gereğince yapılacak ulaşım, sigorta vergi, resim ve harç giderlerinin tamamı isteklilerce teklif edilecek fiyata dahil kabul edileceğinden herhangi ek bir ödeme yapılmayacak olup, mevzuatlarda yapılan değişikliklerden dolayı herhangi bir fark verilmeyecektir. Ayrıca ihale konusu işin yapımıyla ilgili olarak, kırtasiye, plan ciltlemesi, kargo, konaklama ve yiyecek giderleri ile işin yapımı sırasında kullanılan teknik alet edevatlar </u></span></b> sözleşme bedeline dahildir. İlgili mevzuatı uyarınca hesaplanacak Katma Değer Vergisi, sözleşme bedeline dahil olmayıp İdare tarafından Yükleniciye ödenecektir.<p/><p class=MsoNormal style="text-align: justify">				</span></p><p class=MsoNormal style="margin-bottom:6.0pt;text-align: justify"><p/><p class=MsoNormal style="text-align: justify">	<p class=MsoNormal style='margin-top:6.0pt;margin-bottom:0.0pt;text-align:justify'><b><span
+style='font-size:12.0pt;color:windowtext'>Madde 8 - Sözleşmenin ekleri</span></b></p><p/><p class=MsoNormal style="text-align: justify">	<b>8.1.</b> İhale dokümanı, bu sözleşmenin eki ve ayrılmaz parçası olup, İdareyi ve Yükleniciyi bağlar. Ancak, sözleşme hükümleri ile ihale dokümanını oluşturan belgelerdeki hükümler arasında çelişki veya farklılık olması halinde, ihale dokümanında yer alan hükümler esas alınır.<p/><p class=MsoNormal style="text-align: justify">	<b>8.2.</b> İhale dokümanını oluşturan belgeler arasındaki öncelik sıralaması aşağıdaki gibidir:<p/><p class=MsoNormal style="text-align: justify">		<div class=MsoNormal style='margin-left:35.45pt;text-align:justify'>1) Hizmet İşleri Genel Şartnamesi,<p/><p class=MsoNormal style="text-align: justify">		2) İdari Şartname, <p/><p class=MsoNormal style="text-align: justify">		3) Sözleşme Tasarısı,<p/><p class=MsoNormal style="text-align: justify">		4) Birim fiyat tarifleri (varsa),<p/><p class=MsoNormal style="text-align: justify">		5) Özel Teknik Şartname (varsa),<p/><p class=MsoNormal style="text-align: justify">		6) Teknik Şartname,<p/><p class=MsoNormal style="text-align: justify">		7) Açıklamalar (varsa),<p/><p class=MsoNormal style="text-align: justify">		<b><span class='richtext'><u style='text-underline:dotted'></u></span></b><p/><p class=MsoNormal style="text-align: justify">		</div><p/><p class=MsoNormal style="text-align: justify">	<b>8.3.</b> Zeyilnameler ait oldukları dokümanın öncelik sırasına sahiptir.<p/><p class=MsoNormal style="text-align: justify">	</p><p class=MsoNormal style="margin-bottom:6.0pt;text-align: justify"><span style='font-weight:normal;'><p/><p class=MsoNormal style="text-align: justify">	<p class=MsoNormal style='margin-top:6.0pt;margin-bottom:0.0pt;text-align:justify'><b><span
+style='font-size:12.0pt;color:windowtext'>Madde 9 - İşin süresi</span></b></p>					<p/><p class=MsoNormal style="text-align: justify">	<b>9.1.</b> İşe başlama tarihi <b><span class='richtext'><u style='text-underline:dotted'>02.05.2025</u></span></b>; işi bitirme tarihi <b><span class='richtext'><u style='text-underline:dotted'>01.11.2025</u></span></b></span></p><p class=MsoNormal style="margin-bottom:6.0pt;text-align: justify"><span style='font-weight:normal;'><p/><p class=MsoNormal style="text-align: justify">	<b>9.2.</b> Bu sözleşmenin uygulanmasında sürelerin hesabı takvim günü esasına göre yapılmıştır.<p/><p class=MsoNormal style="text-align: justify">					</span></p><p class=MsoNormal style="margin-bottom:6.0pt;text-align: justify"><span style='font-weight:normal;'><p/><p class=MsoNormal style="text-align: justify">	<p class=MsoNormal style='margin-top:6.0pt;margin-bottom:0.0pt;text-align:justify'><b><span
+style='font-size:12.0pt;color:windowtext'>Madde 10 - İşin yapılma yeri, işyeri teslim ve işe başlama tarihi</span></b></p> <p/><p class=MsoNormal style="text-align: justify">	<b>10.1.</b> İşin yapılacağı yer/yerler: <b><span class='richtext'><u style='text-underline:dotted'>İstanbul Orman Bölge Müdürlüğü idari sınırları içerisinde kalan 326 adet Ulusal Orman Envanteri gözlem noktalarında, Örnek Alan Tanıtım Formu, Ağaç Serveti, Artım ve Canlı Kütle Envanter Karnesi, Ölü Ağaç/Odun Envanter Karnesi, Diri Örtü Envanter Karnesi Düzenleme, Düzenlenen bu karnelerin veri tabanına girilmesi, Toprak Profili numuneleri ve Diğer Numunelerin İdarenin Yönlendirmiş Olduğu Laboratuvarlara Teslim Edilmesi Hizmet Alımı İşi</u></span></b></span></p><p class=MsoNormal style="margin-bottom:6.0pt;text-align: justify"><span style='font-weight:normal;'><p/><p class=MsoNormal style="text-align: justify">	<b>10.2.</b> İşyerinin teslimine ilişkin esaslar ve işe başlama tarihi: İşyeri teslimi yapılmayacak ve 9.1. maddesinde belirtilen tarihte işe başlanacaktır.							<p/><p class=MsoNormal style="text-align: justify">								</span></p><p class=MsoNormal style="margin-bottom:6.0pt;text-align: justify"><p/><p class=MsoNormal style="text-align: justify">	<p class=MsoNormal style='margin-top:6.0pt;margin-bottom:0.0pt;text-align:justify'><b><span
+style='font-size:12.0pt;color:windowtext'>Madde 11 - Teminata ilişkin hükümler</span></b></p><p/><p class=MsoNormal style="text-align: justify">	<b>11.1.</b> Kesin teminat<p/><p class=MsoNormal style="text-align: justify">	<b>11.1.1.</b> Yüklenici bu işe ilişkin olarak ..................................................... (rakam ve yazıyla) kesin teminat vermiştir.<p/><p class=MsoNormal style="text-align: justify">	<b>11.1.2.</b> Kesin teminat mektubunun süresi  ../../.... tarihine kadardır. Kanunda veya sözleşmede belirtilen haller ile cezalı çalışma nedeniyle kabulün gecikeceğinin anlaşılması durumunda teminat mektubunun süresi de işteki gecikmeyi karşılayacak şekilde uzatılır.<p/><p class=MsoNormal style="text-align: justify">	<b>11.2.</b> Ek kesin teminat<p/><p class=MsoNormal style="text-align: justify">	<b>11.2.1.</b> Fiyat farkı ödenmesi öngörülen işlerde, fiyat farkı olarak ödenecek bedelin ve /veya iş artışı olması halinde bu artış tutarının % 6'sı oranında teminat olarak kabul edilen değerler üzerinden ek kesin teminat alınır. Fiyat farkı olarak ödenecek bedel üzerinden hesaplanan ek kesin teminat miktarı hakedişlerden kesinti yapılmak suretiyle de karşılanabilir. <p/><p class=MsoNormal style="text-align: justify">	<b>11.2.2.</b> Ek kesin teminatın teminat mektubu olması halinde, ek kesin teminat mektubunun süresi, kesin teminat mektubunun süresinden daha az olamaz.<p/><p class=MsoNormal style="text-align: justify">	<b>11.3.</b> Yüklenici tarafından verilen kesin ve ek kesin teminat, 4734 sayılı Kanunun 34 üncü maddesinde belirtilen değerlerle değiştirilebilir.	<p/><p class=MsoNormal style="text-align: justify">		</p><p class=MsoNormal style="margin-bottom:6.0pt;text-align: justify"><span style='font-weight:normal;'><p/><p class=MsoNormal style="text-align: justify">	<b>11.4.</b>  Kesin teminat ve ek kesin teminatın geri verilmesi:<p/><p class=MsoNormal style="text-align: justify">	<b>11.4.1.</b> Taahhüdün, sözleşme ve ihale dokümanı hükümlerine uygun olarak yerine getirildiği ve Yüklenicinin bu işten dolayı idareye herhangi bir borcunun olmadığı tespit edildikten sonra, Sosyal Güvenlik Kurumundan alınan ilişiksiz belgesinin İdareye verilmesinin ardından kesin teminat ve varsa ek kesin teminatların tamamı, Yükleniciye iade edilecektir.<p/><p class=MsoNormal style="text-align: justify">	<b>11.4.2.</b> Yüklenicinin bu iş nedeniyle İdareye ve Sosyal Güvenlik Kurumuna olan borçları ile ücret ve ücret sayılan ödemelerden yapılan kanuni vergi kesintilerinin hizmetin kabul tarihine kadar ödenmemesi durumunda protesto çekmeye ve hüküm almaya gerek kalmaksızın kesin ve ek kesin teminat paraya çevrilerek borçlarına karşılık mahsup edilir, varsa kalanı Yükleniciye iade edilir.<p/><p class=MsoNormal style="text-align: justify">					</span></p><p class=MsoNormal style="margin-bottom:6.0pt;text-align: justify"><p/><p class=MsoNormal style="text-align: justify">		  <b>11.4.3.</b> Yukarıdaki hükümlere göre mahsup işlemi yapılmasına gerek bulunmayan hallerde; kesin hesap ve kabul tutanağının onaylanmasından itibaren iki yıl içinde idarenin yazılı uyarısına rağmen talep edilmemesi nedeniyle iade edilemeyen kesin teminat mektupları hükümsüz kalır ve düzenleyen bankaya veya sigorta şirketine iade edilir. Teminat mektubu dışındaki teminatlar sürenin bitiminde Hazineye gelir kaydedilir.<p/><p class=MsoNormal style="text-align: justify">	<b>11.5.</b> Her ne suretle olursa olsun, İdarece alınan teminatlar haczedilemez ve üzerine ihtiyati tedbir konulamaz.<p/><p class=MsoNormal style="text-align: justify">    </p><p class=MsoNormal style="margin-bottom:6.0pt;text-align: justify"><span style='font-weight:normal;'><p/><p class=MsoNormal style="text-align: justify">	<p class=MsoNormal style='margin-top:6.0pt;margin-bottom:0.0pt;text-align:justify'><b><span
+style='font-size:12.0pt;color:windowtext'>Madde 12 - Ödeme yeri ve şartları</span></b></p><p/><p class=MsoNormal style="text-align: justify">	<b>12.1.</b> Sözleşme bedeli <b><span class='richtext'><u style='text-underline:dotted'>İstanbul Orman İşletme Müdürlüğü Döner Sermaye Saymanlığı Muhasebe Birimince</u></span></b> ve Genel Şartnamenin hatalı, kusurlu ve eksik işlere ilişkin hükümleri saklı kalmak kaydıyla aşağıda öngörülen plan ve şartlar çerçevesinde ödenecektir: <p/><p class=MsoNormal style="text-align: justify">	<b><span class='richtext'><u style='text-underline:dotted'><p>&Ouml;demeler d&uuml;zenlenecek iki hak edişle yapılacaktır. Birincisi toplam nokta sayısının %40&rsquo;ı karnelerin veri tabanına girilmesi de dahil olarak tamamlanıp kontrol komisyonunun onayına m&uuml;teakip, diğeri ise t&uuml;m noktaların bitiminde karnelerin veri tabanına girilmesi de dahil olarak ve kontrol komisyonunun onayına m&uuml;teakip olmak &uuml;zere işin sonunda d&uuml;zenlenecektir.</p></u></span></b><p/><p class=MsoNormal style="text-align: justify">					  <b>12.1.1.</b> Hakediş raporu, yüklenici veya vekili tarafından imzalandığı tarihten başlamak üzere <b><span class='richtext'><u style='text-underline:dotted'>30</u></span></b> gün içinde tahakkuka bağlanır. Bu tarihten başlamak üzere otuz gün içinde de ödeme yapılır.<p/><p class=MsoNormal style="text-align: justify">          </span></p><p class=MsoNormal style="margin-bottom:6.0pt;text-align: justify"><p/><p class=MsoNormal style="text-align: justify">	<b>12.2.</b> Yüklenici iş programına göre daha fazla iş yaparsa, İdare bu fazla işin bedelini imkan bulduğu takdirde öder.<p/><p class=MsoNormal style="text-align: justify">	<b>12.3.</b> Yüklenici yapılan işe ilişkin hakediş ve alacaklarını idarenin yazılı izni olmaksızın başkalarına devir veya temlik edemez. Temliknamelerin noterlikçe düzenlenmesi ve idare tarafından istenilen kayıt ve şartları taşıması zorunludur.<p/><p class=MsoNormal style="text-align: justify">		</p><p class=MsoNormal style="margin-bottom:6.0pt;text-align: justify"><span style='font-weight:normal;'><p/><p class=MsoNormal style="text-align: justify">	<p class=MsoNormal style='margin-top:6.0pt;margin-bottom:0.0pt;text-align:justify'><b><span
+style='font-size:12.0pt;color:windowtext'>Madde 13 - Avans verilmesi şartları ve miktarı</span></b></p><p/><p class=MsoNormal style="text-align: justify">	<b>13.1.</b> Bu iş için avans verilmeyecektir.			<p/><p class=MsoNormal style="text-align: justify">				</span></p><p class=MsoNormal style="margin-bottom:6.0pt;text-align: justify"><p/><p class=MsoNormal style="text-align: justify">	<p class=MsoNormal style='margin-top:6.0pt;margin-bottom:0.0pt;text-align:justify'><b><span
+style='font-size:12.0pt;color:windowtext'>Madde 14 - Fiyat farkı ödenmesi ve hesaplanması şartları</span></b></p><p/><p class=MsoNormal style="text-align: justify">	<b>14.1.</b> Yüklenici, gerek sözleşme süresi, gerekse uzatılan süre içinde, sözleşmenin tamamen ifasına kadar, vergi, resim, harç ve benzeri mali yükümlülüklerde artışa gidilmesi veya yeni mali yükümlülüklerin ihdası gibi nedenlerle fiyat farkı verilmesi talebinde bulunamaz.<p/><p class=MsoNormal style="text-align: justify">	</p><p class=MsoNormal style="margin-bottom:6.0pt;text-align: justify"><span style='font-weight:normal;'><p/><p class=MsoNormal style="text-align: justify">						<b>14.2.</b> Bu sözleşme kapsamında yapılacak işler için fiyat farkı hesaplanmayacaktır. Ancak, mücbir sebepler veya idareden kaynaklanan nedenlerle işin bitim tarihinin süre uzatımı verilmek suretiyle uzatılması halinde, yürürlükte bulunan fiyat farkına ilişkin esaslar dikkate alınarak fiyat farkı hesaplanacaktır.<p/><p class=MsoNormal style="text-align: justify">						<b><span class='richtext'><u style='text-underline:dotted'></u></span></b></span></p><p class=MsoNormal style="margin-bottom:6.0pt;text-align: justify"><p/><p class=MsoNormal style="text-align: justify">	<b>14.3.</b> Sözleşmede yer alan fiyat farkına ilişkin esas ve usullerde sözleşme imzalandıktan sonra değişiklik yapılamaz. <p/><p class=MsoNormal style="text-align: justify">		</p><p class=MsoNormal style="margin-bottom:6.0pt;text-align: justify"><span style='font-weight:normal;'><p/><p class=MsoNormal style="text-align: justify">	<p class=MsoNormal style='margin-top:6.0pt;margin-bottom:0.0pt;text-align:justify'><b><span
+style='font-size:12.0pt;color:windowtext'>Madde 15 - Alt yüklenicilere ilişkin bilgiler ve sorumluluklar</span></b></p><p/><p class=MsoNormal style="text-align: justify">	<b>15.1.</b> Bu işte alt yüklenici çalıştırılmayacak ve işlerin tamamı yüklenicinin kendisi tarafından yapılacaktır.			<p/><p class=MsoNormal style="text-align: justify">				</span></p><p class=MsoNormal style="margin-bottom:6.0pt;text-align: justify"><p/><p class=MsoNormal style="text-align: justify">			<p class=MsoNormal style='margin-top:6.0pt;margin-bottom:0.0pt;text-align:justify'><b><span
+style='font-size:12.0pt;color:windowtext'>Madde 16 - Sözleşmeye aykırılık halleri, cezalar ve sözleşmenin feshi</span></b></p><p/><p class=MsoNormal style="text-align: justify">			<b>16.1.</b> İhale konusu işin niteliği ve özelliğine göre işin sözleşmesine uygun olmayan haller ve idare tarafından uygulanacak cezalar aşağıda belirtilmiştir. Cezalar, aykırılık halleri ve sözleşmenin feshine ilişkin hususlar bu Sözleşmenin 16, 24, 25, 26, 27, 28 ve 29 uncu maddelerinde düzenlenmiştir. Bu hususlara ilişkin olarak söz konusu maddeler dışındaki ve ihale dokümanındaki diğer düzenlemeler sadece 16.1.1 inci madde kapsamında değerlendirilir.<p/><p class=MsoNormal style="text-align: justify">			<b>16.1.1.</b> Bu sözleşmenin 16.1.2 nci maddesinde yer alan özel aykırılık ve 16.1.3 üncü maddesinde yer alan ağır aykırılık halleri dışında, sözleşme hükümlerine uyulmaması halinde uygulanacak ceza oranı, ilk sözleşme bedelinin  <b><span class='richtext'><u style='text-underline:dotted'>Binde 3</u></span></b>'dır. Aynı fiilin tekrarı halinde bu oran % 50 artırımlı uygulanır.<p/><p class=MsoNormal style="text-align: justify">		</p><p class=MsoNormal style="margin-bottom:6.0pt;text-align: justify"><span style='font-weight:normal;'><p/><p class=MsoNormal style="text-align: justify">						<b>16.1.2.</b> Aşağıdaki tabloda yer alan özel aykırılık hallerinde aynı satırda belirtilen oranda ceza uygulanır. Tabloda yer verilen özel aykırılıklardan herhangi birinin ilgili aykırılık için aynı satırda belirtilen sayıya ve toplam özel aykırılık halinin de <b><span class='richtext'><u style='text-underline:dotted'>30</u></span></b> sayısına ulaşması koşullarının birlikte gerçekleşmesi durumunda, 4735 sayılı Kanunun 20 nci maddesinin (b) bendine göre protesto çekmeye gerek kalmaksızın sözleşme feshedilir.<p/><p class=MsoNormal style="text-align: justify">						<b><span class='richtext'><u style='text-underline:dotted'><div align='left'><style>table.tbl {width:100%;} table.tbl tr td, table.tbl tr th {padding:4px 8px;border: 1px solid black;border-collapse: collapse;word-wrap: break-word;word-break: break-all;}</style><table frame="box"><b>Özel Aykırılık Halleri</b><br></table> <table class="tbl" style="margin:10px 0;"><br />                               <tr><br />                                   <td></td>  <br />                                   <td style="font-weight:bold;font-size:15px;width:55%;text-align:center;">Aykırılık Hali</td>                                  <br />                                   <td style="font-weight:bold;font-size:15px;width:20%;text-align:center;">İlk Sözleşme <br/>Bedeli<br/> Üzerinden<br/> Kesilecek <br/>Ceza<br/> Oranı </td><br />                                   <td style="font-weight:bold;font-size:15px;width:17%;text-align:center;">Aykırılık<br/> Sayısı</td><br />                               </tr><tr><br />                                                <td style="text-align:center;">1</td>    <br />                                                <td style="text-align:center;">Yüklenici ve mühendislerince sahte örnek alan envanter karnesinin üretildiğinin tespiti halinde, her bir örnek alan karnesi için 2.500,00TL (İki Bin Beş Yüz Türk Lirası) ceza kesilir. Bu işi mühendisin yapması halinde derhal mühendisin işine son verilir, aynı örnek alan envanteri yüklenici tarafından tekrar yaptırılır. Bu işi; gerçek kişi olan yüklenicinin yapması halinde yüklenicinin; tüzel kişiliği haiz yükleniciliğin temsilcisinin yapması halinde tüzel kişi yükleniciliğin sözleşmesi feshedilir.  Bu durum bir tutanağa bağlanır ve adli makamlara bildirilir.</td>                                            <br />                                                <td style="text-align:center;">Binde <br/> 3</td><br />                                                <td style="text-align:center;">3</td><br />                                           </tr><tr><br />                                                <td style="text-align:center;">2</td>    <br />                                                <td style="text-align:center;">Ulusal Orman Envanteri gözlem noktalarında ölçüm yapılması esas olmakla birlikte, örnek alan merkezine ulaşılamaması durumunda bu durumu gerekçeli rapor hazırlayarak kontrol teşkilatına belgelendirir. Kontrol komisyonu durumu gerekçeli raporu uygun görmesi durumunda ulaşılamayan nokta için ihale bedelinin nokta başına düşen miktarının %80’i oranında noktanın ödemesi yapılır, uygun görmemesi durumunda ise 2.500,00TL (İki Bin Beş Yüz Türk Lirası) cezai işlemi uygulayarak ölçümleri yaptırır. </td>                                            <br />                                                <td style="text-align:center;">Binde <br/> 3</td><br />                                                <td style="text-align:center;">3</td><br />                                           </tr></table> <br/></div></u></span></b></span></p><p class=MsoNormal style="margin-bottom:6.0pt;text-align: justify"><span style='font-weight:normal;'><p/><p class=MsoNormal style="text-align: justify">									<b>16.1.3.</b> Aşağıdaki tabloda yer alan ağır aykırılık hallerinden herhangi birinin gerçekleşmesi halinde, 4735 sayılı Kanunun 20 nci maddesinin (b) bendine göre protesto çekmeye gerek kalmaksızın sözleşme feshedilir.<p/><p class=MsoNormal style="text-align: justify">									<b><span class='richtext'><u style='text-underline:dotted'><div align='left'><style>table.tbl1 {width:100%;} table.tbl1 tr td, table.tbl1 tr th {padding:4px 8px; border: 1px solid black;border-collapse: collapse;word-wrap: break-word;word-break: break-all;}</style><table frame="box"><b>Ağır Aykırılık Halleri</b><br></table> <table class="tbl1" style="margin:10px 0;"><tr><br />                                                <td style="text-align:center;">1</td>    <br />                                                <td style="text-align:center;">Sözleşme yapıldıktan sonra yüklenicinin taahhüdünden vazgeçmesi veya taahhüdünü şartname ve sözleşme hükümlerine uygun olarak yerine getirmemesi üzerine; idarenin en az on (10) gün süreli ve sebepleri açıkça belirtilen ihtarına rağmen aynı şekilde devam etmesi halinde; ayrıca protesto çekmeye ve hüküm almaya gerek kalmaksızın, kesin teminatı gelir kaydedilir ve sözleşme feshedilerek, hesabı genel hükümlere göre tasfiye edilir. Gelir kaydedilen kesin teminat yüklenicinin borcuna mahsup edilemez. Ayrıca, bu işe ait sözleşmenin ilgili hükümleri uygulanır.</td>                                            <br />                                           </tr></table> <br/></div></u></span></b><p/><p class=MsoNormal style="text-align: justify">                  <b>16.1.3.1.</b> Sözleşmenin feshine yol açan ağır aykırılık haline ilişkin ayrıca ceza uygulanmayacaktır. Ağır aykırılık hallerine ilişkin ayrıca ceza uygulanmasına yönelik bu madde dışında düzenleme yapılmış olması halinde dahi söz konusu düzenleme dikkate alınmayacaktır.<p/><p class=MsoNormal style="text-align: justify">                </span></p><p class=MsoNormal style="margin-bottom:6.0pt;text-align: justify"><p/><p class=MsoNormal style="text-align: justify">			<b>16.1.4.</b> Bu sözleşme kapsamında kesilecek cezaların toplam tutarı hiçbir durumda ilk sözleşme bedelinin % 30’unu geçemez. Toplam ceza tutarının ilk sözleşme bedelinin % 30’unu geçtiğinin anlaşılması durumunda bu orana kadar ceza uygulanır ve 4735 sayılı Kanunun 20 nci maddesinin (b) bendine göre protesto çekmeye gerek kalmaksızın sözleşme feshedilir.<p/><p class=MsoNormal style="text-align: justify">			<b>16.1.5.</b> Bu sözleşmenin 16.1.2 nci ve 16.1.3 üncü maddelerinde yer verilen aykırılıklar kapsamında somut fiillere yer verilmemesi halinde, söz konusu maddelerde yer alan cezalar ve/veya fesih yaptırımları uygulanamaz. Ayrıca, aynı aykırılığın 16.1.2 nci ve 16.1.3 üncü maddelerde birlikte sayıldığı hallerde, sözleşme uygulamasında 16.1.3 üncü madde dikkate alınır.<p/><p class=MsoNormal style="text-align: justify">		</p><p class=MsoNormal style="margin-bottom:6.0pt;text-align: justify"><p/><p class=MsoNormal style="text-align: justify">			<b>16.2.</b> Yukarıda belirtilen cezalar ayrıca protesto çekmeye gerek kalmaksızın yükleniciye yapılacak ödemelerden kesilir. Cezanın ödemelerden karşılanamaması halinde ceza tutarı yükleniciden ayrıca tahsil edilir.<p/><p class=MsoNormal style="text-align: justify">			<b>16.3.</b> Yüklenici sözleşmeye uygun olarak işi süresinde bitirmediği takdirde 4735 sayılı Kanunun 20 nci maddesi gereğince en az on gün süreli yazılı ihtar yapılarak gecikilen her takvim günü için ilk sözleşme bedeli üzerinden 16.1.1 inci maddede belirtilen ceza oranında (kısmi kabul öngörülmüşse süresinde tamamlanmayan kısmın ilk sözleşme bedeli üzerinden) gecikme cezası uygulanır. Yapılacak ihtarda belirtilen sürenin bitmesine rağmen aynı durumun devam etmesi halinde, ayrıca protesto çekmeye gerek kalmaksızın kesin teminat ve varsa ek kesin teminat gelir kaydedilir ve sözleşme feshedilerek hesabı genel hükümlere göre tasfiye edilir. Gecikmenin yol açtığı aykırılığın işin niteliği gereği giderilmesinin mümkün olmadığı hallerde, 4735 sayılı Kanunun 20 nci maddesinin (b) bendine göre protesto çekmeye gerek kalmaksızın sözleşme idarece feshedilebilecektir.<p/><p class=MsoNormal style="text-align: justify">			<b>16.3.1.</b> İşin tamamının ya da varsa kısmi kabule konu kısmının süresinde bitirilmemesi haline ilişkin olarak 16.1.2 nci veya 16.1.3 üncü maddelerde yapılan düzenlemeler uygulanmaz.<p/><p class=MsoNormal style="text-align: justify">			<b>16.4.</b> Sözleşmenin uygulanması sırasında yüklenicinin 4735 sayılı Kanunun 25 inci maddesinde sayılan yasak fiil veya davranışlarda bulunduğunun tespit edilmesi, halinde ise ayrıca protesto çekmeye gerek kalmaksızın kesin teminat ve varsa ek kesin teminatlar gelir kaydedilir ve sözleşme feshedilerek hesabı genel hükümlere göre tasfiye edilir.<p/><p class=MsoNormal style="text-align: justify">		</p><p class=MsoNormal style="margin-bottom:6.0pt;text-align: justify"><p/><p class=MsoNormal style="text-align: justify">	<p class=MsoNormal style='margin-top:6.0pt;margin-bottom:0.0pt;text-align:justify'><b><span
+style='font-size:12.0pt;color:windowtext'>Madde 17 - Süre uzatımı verilebilecek haller ve şartları</span></b></p><p/><p class=MsoNormal style="text-align: justify">	<b>17.1.</b> Mücbir sebepler nedeniyle süre uzatımı verilebilecek haller aşağıda sayılmıştır.<p/><p class=MsoNormal style="text-align: justify">	<b>17.1.1.</b> Mücbir sebepler:<p/><p class=MsoNormal style="text-align: justify">		<div class=MsoNormal style='margin-left:35.45pt;text-align:justify'>a) Doğal afetler.<p/><p class=MsoNormal style="text-align: justify">		b) Kanuni grev.<p/><p class=MsoNormal style="text-align: justify">		c) Genel salgın hastalık.<p/><p class=MsoNormal style="text-align: justify">		ç) Kısmi veya genel seferberlik ilanı.<p/><p class=MsoNormal style="text-align: justify">		d) Gerektiğinde Kamu İhale Kurumu tarafından belirlenecek benzeri diğer haller.<p/><p class=MsoNormal style="text-align: justify">		</div><p/><p class=MsoNormal style="text-align: justify">	<b>17.1.2.</b> Yukarıda belirtilen hallerin mücbir sebep olarak kabul edilmesi ve yükleniciye süre uzatımı verilebilmesi için, mücbir sebep olarak kabul edilecek durumun;<p/><p class=MsoNormal style="text-align: justify">		<div class=MsoNormal style='margin-left:35.45pt;text-align:justify'>a) Yüklenicinin kusurundan kaynaklanmamış olması,<p/><p class=MsoNormal style="text-align: justify">		b) Taahhüdün yerine getirilmesine engel nitelikte olması,<p/><p class=MsoNormal style="text-align: justify">		c) Yüklenicinin bu engeli ortadan kaldırmaya gücünün yetmemesi,<p/><p class=MsoNormal style="text-align: justify">		ç) Mücbir sebebin meydana geldiği tarihi izleyen yirmi gün içinde yüklenicinin İdareye yazılı olarak bildirimde bulunması,<p/><p class=MsoNormal style="text-align: justify">		d) Yetkili merciler tarafından belgelendirilmesi,<p/><p class=MsoNormal style="text-align: justify">		</div>                                 <p/><p class=MsoNormal style="text-align: justify">zorunludur.<p/><p class=MsoNormal style="text-align: justify">	<b>17.1.3.</b> Yüklenici tarafından zamanında yapılmayan başvurular dikkate alınmaz ve Yüklenici başvuru süresini geçirdikten sonra süre uzatımı isteğinde bulunamaz.<p/><p class=MsoNormal style="text-align: justify">	<b>17.2.</b> İdareden kaynaklanan nedenlerle süre uzatımı verilecek haller:<p/><p class=MsoNormal style="text-align: justify">	<b>17.2.1.</b> İdarenin sözleşmenin ifasına ilişkin yükümlülüklerini yüklenicinin kusuru olmaksızın, öngörülen süreler içinde yerine getirmemesi ve bu sebeple sorumluluğu yükleniciye ait olmayan gecikmelerin meydana gelmesi, bu durumun taahhüdün yerine getirilmesine engel nitelikte olması ve yüklenicinin bu engeli ortadan kaldırmaya gücünün yetmemiş olması halinde; işi engelleyici sebeplere ve yapılacak işin niteliğine göre, işin bir kısmına veya tamamına ait süre en az gecikilen süre kadar uzatılır. <p/><p class=MsoNormal style="text-align: justify">	</p><p class=MsoNormal style="margin-bottom:6.0pt;text-align: justify"><span style='font-weight:normal;'><p/><p class=MsoNormal style="text-align: justify">	<b>17.2.2.</b> Bu madde boş bırakılmıştır.<p/><p class=MsoNormal style="text-align: justify">	<b>17.3.</b> Süre uzatımına ilişkin diğer hususlarda Genel Şartnamenin ilgili hükümleri uygulanır.<p/><p class=MsoNormal style="text-align: justify">				</span></p><p class=MsoNormal style="margin-bottom:6.0pt;text-align: justify"><span style='font-weight:normal;'><p/><p class=MsoNormal style="text-align: justify">	<p class=MsoNormal style='margin-top:6.0pt;margin-bottom:0.0pt;text-align:justify'><b><span
+style='font-size:12.0pt;color:windowtext'>Madde 18 - Kontrol Teşkilatı, görev ve yetkileri</span></b></p><p/><p class=MsoNormal style="text-align: justify">	<b>18.1.</b> İşin, sözleşme ve eklerine uygun olarak yürütülüp yürütülmediği İdare tarafından görevlendirilen Kontrol Teşkilatı aracılığıyla denetlenir. Kontrol Teşkilatı, Genel Şartnamenin Dördüncü Bölümünde belirtilen yetkileri kullanır ve görevleri yerine getirir.	<p/><p class=MsoNormal style="text-align: justify">					</span></p><p class=MsoNormal style="margin-bottom:6.0pt;text-align: justify"><p/><p class=MsoNormal style="text-align: justify">	<p class=MsoNormal style='margin-top:6.0pt;margin-bottom:0.0pt;text-align:justify'><b><span
+style='font-size:12.0pt;color:windowtext'>Madde 19 - İşin yürütülmesine ilişkin kayıt ve tutanaklar</span></b></p><p/><p class=MsoNormal style="text-align: justify">	<b>19.1.</b> <b><span class='richtext'><u style='text-underline:dotted'>Yüklenici, idare tarafından arazi işlerine başlamadan önce verilecek kullanıcı adı ve şifre ile en geç 30 (otuz) gün içinde alınan envanter karneleri verilerini idarece belirlenen ilgili ORBİS modülüne girecektir. ORBİS modülüne girilen tüm verilerin bir kopyası harici olarak sayısal ortamda kontrol komisyonuna teslim edilecektir. Islak imzalı asıl nüshalar ise idareye teslim edilecektir.</u></span></b></p><p class=MsoNormal style="margin-bottom:6.0pt;text-align: justify"><span style='font-weight:normal;'><p/><p class=MsoNormal style="text-align: justify">	<p class=MsoNormal style='margin-top:6.0pt;margin-bottom:0.0pt;text-align:justify'><b><span
+style='font-size:12.0pt;color:windowtext'>Madde 20 - Teslim, muayene ve kabul işlemlerine ilişkin şartlar</span></b></p><p/><p class=MsoNormal style="text-align: justify">	<b>20.1.</b> Bu işte kısmi kabul yapılmayacaktır.<p/><p class=MsoNormal style="text-align: justify">					</span></p><p class=MsoNormal style="margin-bottom:6.0pt;text-align: justify"><p/><p class=MsoNormal style="text-align: justify">			<b>20.2.</b> Sözleşme konusu iş tamamlandığında Yüklenici, (işin/ilgili kısmın) teslim alınarak kabul işlemlerinin yapılması için bu talebini içeren bir dilekçe ile İdareye başvuracaktır. Bunun üzerine (yapılan iş/ilgili kısım), her türlü masrafı Yükleniciye ait olmak üzere <b><span class='richtext'><u style='text-underline:dotted'>İstanbul Orman İşletme Müdürlüğü Fatih Ormanı Kampüsü İstanbul Orman İşletme Müdürlüğü No:267-1 Maslak - Sarıyer - İstanbul</u></span></b> adresinde ve başvuru yazısının İdareye ulaştığı tarihten itibaren <b><span class='richtext'><u style='text-underline:dotted'>5</u></span></b> (<b><span class='richtext'><u style='text-underline:dotted'>Beş</u></span></b>) iş günü içinde teslim alınır. Yüklenici, işin teslimi için sözleşme ve ekleri uyarınca üzerine düşen yükümlülükleri yerine getirmemesi nedeniyle oluşan zarardan sorumludur. Süreklilik arz eden işlerde, Kontrol Teşkilatı ile Yüklenicinin, işin yapılmasına ilişkin olarak hizmetin ifa edildiği dönemler itibariyle birlikte tutacakları kayıtlar, işin o dönem içerisinde yapılan kısmının teslimi anlamına gelir. Ancak Yüklenici kayıt tutmaktan ve/veya tutulan kayıtları imzalamaktan imtina ederse Kontrol Teşkilatının kayıtları esas alınır ve bu kayıtların doğruluğu Yüklenici tarafından kabul edilmiş sayılır."<p/><p class=MsoNormal style="text-align: justify">		</p><p class=MsoNormal style="margin-bottom:6.0pt;text-align: justify"><span style='font-weight:normal;'><p/><p class=MsoNormal style="text-align: justify">	<b>20.3.</b> Teslim alınan işin muayene ve kabul işlemleri, "Hizmet Alımları Muayene ve Kabul Yönetmeliği" ile Hizmet İşleri Genel Şartnamesinde yer alan hükümlere göre işin kabule elverişli şekilde teslim edildiği tarihten itibaren <b><span class='richtext'><u style='text-underline:dotted'>5</u></span></b> iş günü içinde yapılarak kesin hesap raporu çıkarılır.<p/><p class=MsoNormal style="text-align: justify">					</span></p><p class=MsoNormal style="margin-bottom:6.0pt;text-align: justify"><span style='font-weight:normal;'><p/><p class=MsoNormal style="text-align: justify">	<p class=MsoNormal style='margin-top:6.0pt;margin-bottom:0.0pt;text-align:justify'><b><span
+style='font-size:12.0pt;color:windowtext'>Madde 21 - İş ve işyerinin korunması ve sigortalanması</span></b></p><p/><p class=MsoNormal style="text-align: justify">	<b>21.1.</b> İş ve işyerlerinin korunmasına ilişkin sorumluluk Genel Şartnamenin 19 uncu maddesinde düzenlenen esaslar dahilinde yükleniciye aittir.<p/><p class=MsoNormal style="text-align: justify">	<b>21.2.</b> Sigorta türleri ile teminat kapsamı ve limitleri: <p/><p class=MsoNormal style="text-align: justify">	<b>21.2.1.</b> Bu madde boş bırakılmıştır.<p/><p class=MsoNormal style="text-align: justify">					</span></p><p class=MsoNormal style="margin-bottom:6.0pt;text-align: justify"><p/><p class=MsoNormal style="text-align: justify">	<p class=MsoNormal style='margin-top:6.0pt;margin-bottom:0.0pt;text-align:justify'><b><span
+style='font-size:12.0pt;color:windowtext'>Madde 22 - Yüklenicinin sözleşme konusu iş ile ilgili çalıştıracağı personele ilişkin sorumlulukları</span></b></p> <p/><p class=MsoNormal style="text-align: justify">	<b>22.1.</b> Yüklenicinin sözleşme konusu iş ile ilgili çalıştıracağı personele ilişkin sorumlulukları, ilgili mevzuatın bu konuyu düzenleyen emredici hükümleri ve Genel Şartnamenin Altıncı Bölümünde belirlenmiş olup, Yüklenici bunları aynen uygulamakla yükümlüdür.<p/><p class=MsoNormal style="text-align: justify">	<b>22.2.</b> Yüklenici, tüm giderleri kendisine ait olmak üzere çalışanların işle ilgili sağlık ve güvenliğini sağlamakla yükümlüdür. Bu çerçevede; çalışanların iş güvenliği uzmanı, iş yeri hekimi ve zorunlu olması halinde diğer sağlık personeli tarafından sunulan hizmetlerden yararlanması, çalışanların sağlık gözetiminin yapılması, mesleki risklerin önlenmesi, eğitim ve bilgi verilmesi dâhil her türlü tedbirin alınması, organizasyonun yapılması, gerekli araç ve gereçlerin sağlanması, sağlık ve güvenlik tedbirlerinin değişen şartlara uygun hâle getirilmesi ve mevcut durumun iyileştirilmesi, işyerinde alınan iş sağlığı ve güvenliği tedbirlerine uyulup uyulmadığının izlenmesi, denetlenmesi ve uygunsuzlukların giderilmesi gibi iş sağlığı ve güvenliği mevzuatı kapsamında iş sağlığı ve güvenliğine ilişkin alınması zorunlu tedbirler yüklenicinin sorumluluğundadır.<p/><p class=MsoNormal style="text-align: justify">		</p><p class=MsoNormal style="margin-bottom:6.0pt;text-align: justify"><p/><p class=MsoNormal style="text-align: justify">	<p class=MsoNormal style='margin-top:6.0pt;margin-bottom:0.0pt;text-align:justify'><b><span
+style='font-size:12.0pt;color:windowtext'>Madde 23 - Sözleşmede değişiklik yapılması</span></b></p><p/><p class=MsoNormal style="text-align: justify">	<b>23.1.</b> Sözleşme bedelinin aşılmaması ve İdare ile Yüklenicinin karşılıklı olarak anlaşması kaydıyla, <p/><p class=MsoNormal style="text-align: justify">		<div class=MsoNormal style='margin-left:35.45pt;text-align:justify'>a) İşin yapılma veya teslim yeri,<p/><p class=MsoNormal style="text-align: justify">		b) İşin süresinden önce yapılması veya teslim edilmesi kaydıyla işin süresi ve bu süreye uygun olarak ödeme şartlarına ait hususlarda sözleşme hükümlerinde değişiklik yapılabilir.<p/><p class=MsoNormal style="text-align: justify">		</div> <p/><p class=MsoNormal style="text-align: justify">	<b>23.2.</b> Bu hallerin dışında sözleşme hükümlerinde değişiklik yapılamaz ve ek sözleşme düzenlenemez.<p/><p class=MsoNormal style="text-align: justify">		</p><p class=MsoNormal style="margin-bottom:6.0pt;text-align: justify"><p/><p class=MsoNormal style="text-align: justify">	<p class=MsoNormal style='margin-top:6.0pt;margin-bottom:0.0pt;text-align:justify'><b><span
+style='font-size:12.0pt;color:windowtext'>Madde 24 - Yüklenicinin Ölümü, İflası, Ağır Hastalığı, Tutukluluğu veya Mahkumiyeti</span></b></p><p/><p class=MsoNormal style="text-align: justify">	<b>24.1.</b> Yüklenicinin ölümü, iflası, ağır hastalığı, tutukluluğu veya özgürlüğü kısıtlayıcı bir cezaya mahkumiyeti hallerinde 4735 sayılı Kanunun ilgili hükümlerine göre işlem tesis edilir.<p/><p class=MsoNormal style="text-align: justify">	<b>24.2.</b> Ortak girişim tarafından gerçekleştirilen işlerde, ortaklardan birinin ölümü, iflası, ağır hastalığı, tutukluğu veya özgürlüğü kısıtlayıcı bir cezaya mahkumiyeti hallerinde de 4735 sayılı Kanunun ilgili hükümlerine göre işlem tesis edilir.<p/><p class=MsoNormal style="text-align: justify"><p/><p class=MsoNormal style="text-align: justify">		</p><p class=MsoNormal style="margin-bottom:6.0pt;text-align: justify"><p/><p class=MsoNormal style="text-align: justify">	<p class=MsoNormal style='margin-top:6.0pt;margin-bottom:0.0pt;text-align:justify'><b><span
+style='font-size:12.0pt;color:windowtext'>Madde 25 - Yüklenicinin sözleşmeyi feshetmesi</span></b></p><p/><p class=MsoNormal style="text-align: justify">	<b>25.1.</b> Yüklenicinin, sözleşme yapıldıktan sonra mücbir sebep halleri dışında, mali acz içinde bulunması nedeniyle taahhüdünü yerine getiremeyeceğini gerekçeleri ile birlikte İdareye yazılı olarak bildirmesi halinde, ayrıca protesto çekmeye gerek kalmaksızın kesin teminat ve varsa ek kesin teminatlar gelir kaydedilir ve sözleşme feshedilerek hesabı genel hükümlere göre tasfiye edilir.<p/><p class=MsoNormal style="text-align: justify">		</p><p class=MsoNormal style="margin-bottom:6.0pt;text-align: justify"><p/><p class=MsoNormal style="text-align: justify">	<p class=MsoNormal style='margin-top:6.0pt;margin-bottom:0.0pt;text-align:justify'><b><span
+style='font-size:12.0pt;color:windowtext'>Madde 26 - İdarenin sözleşmeyi feshetmesi</span></b></p><p/><p class=MsoNormal style="text-align: justify">	<b>26.1.</b> Aşağıda belirtilen hallerde İdare sözleşmeyi fesheder:<p/><p class=MsoNormal style="text-align: justify">a) Yüklenicinin taahhüdünü ihale dokümanı ve sözleşme hükümlerine uygun olarak yerine getirmemesi veya işi süresinde bitirmemesi üzerine, sözleşmede belirlenen oranda gecikme cezası uygulanmak üzere, idarenin en az on gün süreli ve nedenleri açıkça belirtilen ihtarına rağmen aynı durumun devam etmesi,<p/><p class=MsoNormal style="text-align: justify">b) Sözleşmenin uygulanması sırasında Yüklenicinin 4735 sayılı Kanunun 25 inci maddesinde belirtilen yasak fiil ve davranışlarda bulunduğunun tespit edilmesi,<p/><p class=MsoNormal style="text-align: justify">hallerinde ayrıca protesto çekmeye gerek kalmaksızın kesin teminat ve varsa ek kesin teminatlar gelir kaydedilir ve sözleşme feshedilerek hesabı genel hükümlere göre tasfiye edilir. <p/><p class=MsoNormal style="text-align: justify">		</p><p class=MsoNormal style="margin-bottom:6.0pt;text-align: justify"><p/><p class=MsoNormal style="text-align: justify">	<p class=MsoNormal style='margin-top:6.0pt;margin-bottom:0.0pt;text-align:justify'><b><span
+style='font-size:12.0pt;color:windowtext'>Madde 27 - Sözleşmeden önceki yasak fiil veya davranışlar nedeniyle fesih</span></b></p><p/><p class=MsoNormal style="text-align: justify">	<b>27.1.</b> Yüklenicinin, ihale sürecinde 4734 sayılı Kanuna göre yasak fiil veya davranışlarda bulunduğunun sözleşme yapıldıktan sonra tespit edilmesi halinde, kesin teminat ve varsa ek kesin teminatlar gelir kaydedilir ve sözleşme feshedilerek hesabı genel hükümlere göre tasfiye edilir.<p/><p class=MsoNormal style="text-align: justify">	<b>27.2.</b> Taahhüdün en az % 80'inin tamamlanmış olması ve taahhüdün tamamlattırılmasında kamu yararı bulunması kaydıyla;<p/><p class=MsoNormal style="text-align: justify">		<div class=MsoNormal style='margin-left:35.45pt;text-align:justify'>a) İvediliği nedeniyle taahhüdün kalan kısmının yeniden ihale edilmesi için yeterli sürenin bulunmaması,<p/><p class=MsoNormal style="text-align: justify">		b) Taahhüdün başka bir yükleniciye yaptırılmasının mümkün olmaması,<p/><p class=MsoNormal style="text-align: justify">		c) Yüklenicinin yasak fiil veya davranışının taahhüdünü tamamlamasını engelleyecek nitelikte olmaması hallerinde, İdare sözleşmeyi feshetmeksizin<p/><p class=MsoNormal style="text-align: justify">		</div><p/><p class=MsoNormal style="text-align: justify">Yükleniciden taahhüdünü tamamlamasını isteyebilir ve bu takdirde Yüklenici taahhüdünü tamamlamak zorundadır.	<p/><p class=MsoNormal style="text-align: justify">	<b>27.3.</b> Ancak bu durumda, Yüklenici hakkında 4735 sayılı Kanunun 26 ncı maddesi hükmüne göre işlem yapılır ve Yükleniciden kesin teminat ve varsa ek kesin teminatların tutarı kadar ceza tahsil edilir. Bu ceza hakedişlerden kesinti yapılmak suretiyle de tahsil edilebilir.<p/><p class=MsoNormal style="text-align: justify">		</p><p class=MsoNormal style="margin-bottom:6.0pt;text-align: justify"><p/><p class=MsoNormal style="text-align: justify">      <p class=MsoNormal style='margin-top:6.0pt;margin-bottom:0.0pt;text-align:justify'><b><span
+style='font-size:12.0pt;color:windowtext'>Madde 28 - Mücbir sebeplerden dolayı sözleşmenin feshi</span></b></p><p/><p class=MsoNormal style="text-align: justify">      <b>28.1.</b> Mücbir sebeplerden dolayı sözleşmenin feshedilmesi halinde, sözleşme konusu işlere ilişkin hesap genel hükümlere göre tasfiye edilerek, kesin teminat ve varsa ek kesin teminatlar iade edilir.<p/><p class=MsoNormal style="text-align: justify">    </p><p class=MsoNormal style="margin-bottom:6.0pt;text-align: justify"><span style='font-weight:normal;'><p/><p class=MsoNormal style="text-align: justify">	<p class=MsoNormal style='margin-top:6.0pt;margin-bottom:0.0pt;text-align:justify'><b><span
+style='font-size:12.0pt;color:windowtext'>Madde 29 - Sözleşme kapsamında yaptırılabilecek ilave işler, iş eksilişi ve işin tasfiyesi</span></b></p>			<p/><p class=MsoNormal style="text-align: justify">	<b>29.1.</b> Bu ihalede 4735 sayılı Kamu İhale Sözleşmeleri Kanununun 24 üncü maddesi çevresinde iş eksilişi yapılabilir. İhale konusu işin sözleşme bedelinin % 80'inden daha düşük bedelle tamamlanacağının anlaşılması halinde ise, yükleniciye, yapmış olduğu gerçek giderler ve yüklenici kârına karşılık olarak, sözleşme bedelinin % 80'i ile sözleşme fiyatlarıyla yaptığı işin tutarı arasındaki bedel farkının % 5'i ödenir<p/><p class=MsoNormal style="text-align: justify">				</span></p><p class=MsoNormal style="margin-bottom:6.0pt;text-align: justify"><p/><p class=MsoNormal style="text-align: justify">      <p class=MsoNormal style='margin-top:6.0pt;margin-bottom:0.0pt;text-align:justify'><b><span
+style='font-size:12.0pt;color:windowtext'>Madde 30 - Yüklenicinin Ceza Sorumluluğu</span></b></p><p/><p class=MsoNormal style="text-align: justify">      <b>30.1.</b> İş tamamlandıktan ve kabul işlemi yapıldıktan sonra tespit edilmiş olsa dahi 4735 sayılı Kanunun 25 inci maddesinde belirtilen ve Türk Ceza Kanununa göre suç teşkil eden fiil veya davranışlarda bulunan Yüklenici ile o işteki ortak veya vekilleri hakkında Türk Ceza Kanunu hükümlerine göre ceza kovuşturması yapılmak üzere yetkili Cumhuriyet Savcılığına suç duyurusunda bulunulur. Bu kişiler hakkında bir cezaya hükmedilmesi halinde, 4735 sayılı Kanunun 27 nci maddesi hükmü uygulanır.<p/><p class=MsoNormal style="text-align: justify">		  <b>30.2.</b> Yüklenicinin tüzel kişi olması ve ihalede sunulan iş deneyimini gösteren belgenin yüklenicinin yarısından fazla hissesine sahip ve 4734 sayılı Kanuna göre yapılacak ihalelere ilişkin sözleşmelerin yürütülmesi konusunda temsile ve yönetime yetkili ortağına ait olması halinde yüklenici, aşağıda yer alan ifadeyi içeren beyanı her hakedişle birlikte idareye sunar.<p/><p class=MsoNormal style="text-align: justify">                   ...............................[Teklif kapsamında sunulan belgenin düzenleme tarihi yazılacaktır.] tarihli Ortaklık Tespit Belgesinde yer alan bilgilerde bugüne kadar değişiklik olmadığını ve ortağımıza ait iş deneyimini gösteren belgelerin tamamının, başka bir tüzel kişiye kullandırılmadığını taahhüt ederiz.<p/><p class=MsoNormal style="text-align: justify"><p/><p class=MsoNormal style="text-align: justify">    </p><p class=MsoNormal style="margin-bottom:6.0pt;text-align: justify">			<p/><p class=MsoNormal style="text-align: justify">	<p class=MsoNormal style='margin-top:6.0pt;margin-bottom:0.0pt;text-align:justify'><b><span
+style='font-size:12.0pt;color:windowtext'>Madde 31 - Yüklenicinin Tazmin Sorumluluğu</span></b></p><p/><p class=MsoNormal style="text-align: justify">	<b>31.1.</b> Yüklenici, taahhüdü çerçevesinde kusurlu veya standartlara uygun olmayan malzeme seçilmesi, verilmesi veya kullanılması, tasarım hatası, uygulama yanlışlığı, denetim eksikliği, taahhüdün sözleşme ve şartname hükümlerine uygun olarak yerine getirilmemesi ve benzeri nedenlerle ortaya çıkan zarar ve ziyandan doğrudan sorumludur. Bu zarar ve ziyan genel hükümlere göre Yükleniciye ikmal ve tazmin ettirileceği gibi, haklarında 4735 sayılı Kanunun 27 nci maddesi hükümleri de uygulanır.<p/><p class=MsoNormal style="text-align: justify">		</p><p class=MsoNormal style="margin-bottom:6.0pt;text-align: justify"><span style='font-weight:normal;'><p/><p class=MsoNormal style="text-align: justify">	<p class=MsoNormal style='margin-top:6.0pt;margin-bottom:0.0pt;text-align:justify'><b><span
+style='font-size:12.0pt;color:windowtext'>Madde 32 - Fikri ve sınai mülkiyete konu olan hususlar</span></b></p><p/><p class=MsoNormal style="text-align: justify">	<b>32.1.</b>  <b><span class='richtext'><u style='text-underline:dotted'>İşin yapımı sırasında tutulan kayıtlar İdare dışında hiç kimseyle paylaşılmayacaktır.</u></span></b></span></p><p class=MsoNormal style="margin-bottom:6.0pt;text-align: justify"><span style='font-weight:normal;'><p/><p class=MsoNormal style="text-align: justify">	<p class=MsoNormal style='margin-top:6.0pt;margin-bottom:0.0pt;text-align:justify'><b><span
+style='font-size:12.0pt;color:windowtext'>Madde 33 - Montaj, işletmeye alma, eğitim, bakım, yedek parça gibi destek hizmetlerine ait şartlar</span></b></p><p/><p class=MsoNormal style="text-align: justify">	<b>33.1.</b> Bu madde boş bırakılmıştır.	<p/><p class=MsoNormal style="text-align: justify">					</span></p><p class=MsoNormal style="margin-bottom:6.0pt;text-align: justify"><span style='font-weight:normal;'><p/><p class=MsoNormal style="text-align: justify">	<p class=MsoNormal style='margin-top:6.0pt;margin-bottom:0.0pt;text-align:justify'><b><span
+style='font-size:12.0pt;color:windowtext'>Madde 34 - Garanti ile ilgili şartlar</span></b></p><p/><p class=MsoNormal style="text-align: justify">	<b>34.1.</b> Bu madde boş bırakılmıştır.			<p/><p class=MsoNormal style="text-align: justify">				</span></p><p class=MsoNormal style="margin-bottom:6.0pt;text-align: justify"><p/><p class=MsoNormal style="text-align: justify">	<p class=MsoNormal style='margin-top:6.0pt;margin-bottom:0.0pt;text-align:justify'><b><span
+style='font-size:12.0pt;color:windowtext'>Madde 35 - Hüküm bulunmayan haller</span></b></p><p/><p class=MsoNormal style="text-align: justify">	<b>35.1.</b> Bu sözleşme ve eklerinde hüküm bulunmayan hallerde, ilgisine göre 4734 ve 4735 sayılı Kanun hükümlerine, bu Kanunlarda hüküm bulunmaması halinde ise genel hükümlere göre hareket edilir.<p/><p class=MsoNormal style="text-align: justify">		</p><p class=MsoNormal style="margin-bottom:6.0pt;text-align: justify"><span style='font-weight:normal;'><p/><p class=MsoNormal style="text-align: justify">	<p class=MsoNormal style='margin-top:6.0pt;margin-bottom:0.0pt;text-align:justify'><b><span
+style='font-size:12.0pt;color:windowtext'>Madde 36 - Diğer hususlar</span></b></p><p/><p class=MsoNormal style="text-align: justify">	<b>36.1.</b> Bu madde boş bırakılmıştır.			<p/><p class=MsoNormal style="text-align: justify">				</span></p><p class=MsoNormal style="margin-bottom:6.0pt;text-align: justify"><span style='font-weight:normal;'><p/><p class=MsoNormal style="text-align: justify">            <p class=MsoNormal style='margin-top:6.0pt;margin-bottom:0.0pt;text-align:justify'><b><span
+style='font-size:12.0pt;color:windowtext'>Madde 37 - Anlaşmazlıkların çözümü</span></b></p><p/><p class=MsoNormal style="text-align: justify">            <b>37.1.</b> Bu sözleşme ve eklerinin uygulanmasından doğabilecek her türlü uyuşmazlığın çözümünde <b><span class='richtext'><u style='text-underline:dotted'>İstanbul</u></span></b> mahkemeleri ve icra daireleri yetkilidir.<p/><p class=MsoNormal style="text-align: justify">					  </span></p><p class=MsoNormal style="margin-bottom:6.0pt;text-align: justify"><span style='font-weight:normal;'><p/><p class=MsoNormal style="text-align: justify">	<p class=MsoNormal style='margin-top:6.0pt;margin-bottom:0.0pt;text-align:justify'><b><span
+style='font-size:12.0pt;color:windowtext'>Madde 38 - Yürürlük</span></b></p><p/><p class=MsoNormal style="text-align: justify">	<b>38.1.</b> Bu sözleşme taraflarca imzalandığı tarihte yürürlüğe girer.<p/><p class=MsoNormal style="text-align: justify">				</span></p><p class=MsoNormal style="margin-bottom:6.0pt;text-align: justify"><p/><p class=MsoNormal style="text-align: justify">	<p class=MsoNormal style='margin-top:6.0pt;margin-bottom:0.0pt;text-align:justify'><b><span
+style='font-size:12.0pt;color:windowtext'>Madde 39 - Sözleşmenin imzalanması</span></b></p> <p/><p class=MsoNormal style="text-align: justify">	<b>39.1.</b> Bu sözleşme <b><span class='richtext'><u style='text-underline:dotted'>39</u></span></b> maddeden ibaret olup, İdare ve Yüklenici tarafından tam olarak okunup anlaşıldıktan sonra .../.../...... tarihinde bir nüsha olarak imza altına alınmıştır. Ayrıca İdare, Yüklenicinin talebi halinde sözleşmenin "aslına uygun idarece onaylı suretini" düzenleyip Yükleniciye verecektir.<p/><p class=MsoNormal style="text-align: justify">	<p/><p class=MsoNormal style="text-align: justify">	İdare                 Yüklenici<p/><p class=MsoNormal style="text-align: justify">	</p>
+</div>
+
+<div style='mso-element:footer' id=f1> 
+<p class=MsoFooter> 
+<span style='mso-tab-count:2'></span>
+<span style='mso-field-code:" PAGE "'></span>
+ </p>
+ </div>
+                </body>
+                </html>
