@@ -77,4 +77,4 @@ Bu depo, [GNU General Public License v3.0](https://github.com/ergincagataycankay
 ---
 
 📅 **Son Güncelleme:** Mayıs 2025  
-✉️ **Sorumlu Kişi:** Dr. Ergin Çağatay Cankaya – [LinkedIn](#) | [ORCID](#)
+✉️ **Sorumlu Kişi:** Dr. Ergin Çağatay Çankaya – [LinkedIn](#) | [ORCID](#)
