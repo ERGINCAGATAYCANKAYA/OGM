@@ -6,7 +6,7 @@ Bu platform, **Orman Genel Müdürlüğü (OGM)** çatısı altında, **Orman İ
 
 ## 📘 1. Teknik İzahname (2025)
 
-> 📥 [TEKNİK İZAHNAME’Yİ İNDİR](https://raw.githubusercontent.com/ergincagataycankaya/OGM/master/ihale_dokumani_2025/TEKNIK%20IZAHNAME%202025.docx)
+> 📥 [TEKNİK İZAHNAME’Yİ İNDİR](https://raw.githubusercontent.com/ergincagataycankaya/UOE-Documents/master/ihale_dokumani_2025/TEKNIK%20IZAHNAME%202025.docx)
 
 Bu belge, UOE sürecinde uygulanacak yöntemsel esasları, veri toplama protokollerini, örnekleme tasarımını ve modelleme ilkelerini detaylı biçimde tanımlar.
 
@@ -14,7 +14,7 @@ Bu belge, UOE sürecinde uygulanacak yöntemsel esasları, veri toplama protokol
 
 ## 📗 2. Teknik Şartname
 
-> 📥 [TEKNİK ŞARTNAME’Yİ İNDİR](https://raw.githubusercontent.com/ergincagataycankaya/OGM/master/TEKNIK%20SARTNAME%202025.docx)
+> 📥 [TEKNİK ŞARTNAME’Yİ İNDİR](https://raw.githubusercontent.com/ergincagataycankaya/UOE-Documents/master/TEKNIK%20SARTNAME%202025.docx)
 
 Arazi çalışmaları, uzaktan algılama entegrasyonu, örnek nokta uygulaması ve ORBİS uyumluluğu gibi teknik standartlar bu belgede tanımlanmıştır.
 
@@ -22,7 +22,7 @@ Arazi çalışmaları, uzaktan algılama entegrasyonu, örnek nokta uygulaması 
 
 ## 📙 3. İdari Şartname
 
-> 📥 [İDARİ ŞARTNAME’Yİ İNDİR](https://raw.githubusercontent.com/ergincagataycankaya/OGM/master/%C4%B0DAR%C4%B0%20%C5%9EARTNAME.docx)
+> 📥 [İDARİ ŞARTNAME’Yİ İNDİR](https://raw.githubusercontent.com/ergincagataycankaya/UOE-Documents/master/%C4%B0DAR%C4%B0%20%C5%9EARTNAME.docx)
 
 Yüklenici yükümlülükleri, denetim planı, ödeme koşulları ve ihale prosedürlerine dair tüm idari hükümler bu dokümanda yer almaktadır.
 
@@ -30,7 +30,7 @@ Yüklenici yükümlülükleri, denetim planı, ödeme koşulları ve ihale prose
 
 ## 📒 4. Kontrol Talimatı (2025)
 
-> 📥 [KONTROL TALİMATI’NI İNDİR](https://raw.githubusercontent.com/ergincagataycankaya/OGM/master/KONTROL%20TALIMATI%202025.docx)
+> 📥 [KONTROL TALİMATI’NI İNDİR](https://raw.githubusercontent.com/ergincagataycankaya/UOE-Documents/master/KONTROL%20TALIMATI%202025.docx)
 
 Bu belge, **kalite güvencesi (QA)** ve **kalite kontrol (QC)** süreçlerinin uygulama prosedürlerini, hata toleranslarını ve denetim protokollerini sistematik biçimde tanımlar.
 
@@ -38,7 +38,7 @@ Bu belge, **kalite güvencesi (QA)** ve **kalite kontrol (QC)** süreçlerinin u
 
 ## 🧾 5. Malzeme Listesi ve Standart Formlar
 
-> 📂 [EKLER KLASÖRÜNE GİT](https://github.com/ergincagataycankaya/OGM/tree/master/EKLER)
+> 📂 [EKLER KLASÖRÜNE GİT](https://github.com/ergincagataycankaya/UOE-Documents/tree/master/EKLER)
 
 Saha ölçüm ekipmanları listesi, veri toplama karneleri, örnekleme formları ve diğer operasyonel belgeler bu klasör altında yer almaktadır.
 
@@ -46,7 +46,7 @@ Saha ölçüm ekipmanları listesi, veri toplama karneleri, örnekleme formları
 
 ## 🔐 6. Taahhütname ve Gizlilik Belgeleri
 
-> 📄 [TAAHÜTNAME VE GİZLİLİK SÖZLEŞMESİNE GİT](https://github.com/ergincagataycankaya/OGM/tree/master/SON_KULLANICI_TAAH%C3%9CTNAMES%C4%B0_VE_G%C4%B0ZL%C4%B0L...)
+> 📄 [TAAHÜTNAME VE GİZLİLİK SÖZLEŞMESİNE GİT](https://github.com/ergincagataycankaya/UOE-Documents/tree/master/SON_KULLANICI_TAAH%C3%9CTNAMES%C4%B0_VE_G%C4%B0ZL%C4%B0L...)
 
 UOE kapsamında görev alacak personelin ve yüklenici firmaların imzalaması gereken yasal belgeleri içermektedir.
 
@@ -54,7 +54,7 @@ UOE kapsamında görev alacak personelin ve yüklenici firmaların imzalaması g
 
 ## 📜 Lisans
 
-Bu depo, [GNU General Public License v3.0](https://github.com/ergincagataycankaya/OGM/blob/master/LICENSE) lisansı kapsamında yayımlanmıştır.
+Bu depo, [GNU General Public License v3.0](https://github.com/ergincagataycankaya/UOE-Documents/blob/master/LICENSE) lisansı kapsamında yayımlanmıştır.
 
 ---
 
