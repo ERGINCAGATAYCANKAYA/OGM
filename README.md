@@ -40,6 +40,16 @@ Bu belge, **kalite güvencesi (QA)** ve **kalite kontrol (QC)** süreçlerinin u
 
 > 📂 [EKLER KLASÖRÜNE GİT](https://github.com/ergincagataycankaya/UOE-Documents/tree/master/EKLER)
 
+Aşağıda, saha çalışmaları sırasında kullanılan malzeme listeleri, kodlama tabloları ve form dökümanlarına doğrudan erişebilirsiniz:
+
+- 📄 [Ağaç Türleri ve Kodları Tablosu (Ek-1)](https://raw.githubusercontent.com/ergincagataycankaya/UOE-Documents/master/EKLER/A%C4%9Fa%C3%A7%20T%C3%BCrleri%20ve%20Kodlar%C4%B1%20Tablosu%20Ek-1.xlsx)  
+- 📄 [Ağaç, Ağaççık ve Çalı Türleri Tablosu (Ek-2)](https://raw.githubusercontent.com/ergincagataycankaya/UOE-Documents/master/EKLER/A%C4%9Fa%C3%A7%2C%20A%C4%9Fa%C3%A7%C3%A7%C4%B1k%20ve%20%C3%87al%C4%B1%20T%C3%BCrleri%20Tablosu%20Ek-2.xlsx)  
+- 📄 [Erişilebilirlik Bilgileri Formu (Ek-5)](https://raw.githubusercontent.com/ergincagataycankaya/UOE-Documents/master/EKLER/Eri%C5%9Filebilirlik%20Bilgiler%20Ek-5.docx)  
+- 📄 [Laboratuvar Teslim-Tesellüm Tutanağı](https://raw.githubusercontent.com/ergincagataycankaya/UOE-Documents/master/EKLER/Laboratuvar%20Teslim-Tesell%C3%BCm%20Tutana%C4%9F%C4%B1.xlsx)  
+- 📄 [Malzeme Listesi (Ek-4)](https://raw.githubusercontent.com/ergincagataycankaya/UOE-Documents/master/EKLER/Malzeme%20listesi%20Ek-4.docx)  
+- 📄 [Numune Bilgi Kartı (Ek-3)](https://raw.githubusercontent.com/ergincagataycankaya/UOE-Documents/master/EKLER/Numune%20Bilgi%20Kart%C4%B1-Ek.3.docx)  
+- 📄 [UOE Karneleri Tablosu](https://raw.githubusercontent.com/ergincagataycankaya/UOE-Documents/master/EKLER/UOE_Karneler.xlsx)
+
 Saha ölçüm ekipmanları listesi, veri toplama karneleri, örnekleme formları ve diğer operasyonel belgeler bu klasör altında yer almaktadır.
 
 ---
