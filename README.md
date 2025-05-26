@@ -1,6 +1,6 @@
 # 🌲 Ulusal Orman Envanteri (UOE) Teknik Dokümantasyon Portalı
 
-Bu platform, **Orman Genel Müdürlüğü (OGM)** çatısı altında, **Orman İdaresi Planlama Dairesi (OİPD)** koordinasyonunda yürütülen **Ulusal Orman Envanteri (UOE)** çalışmalarına ilişkin resmi dokümanlara dijital erişim sağlamak amacıyla oluşturulmuştur. İlgili belgeler, aynı zamanda **Elektronik Kamu Alımları Platformu (EKAP)** üzerinden de yayımlanmıştır. Burada sunulan içerik, akademik, teknik ve idari paydaşlara sistematik erişim kolaylığı sağlamak üzere yapılandırılmıştır.
+Bu platform, **Orman Genel Müdürlüğü (OGM)** çatısı altında, **Orman İdaresi Planlama Dairesi (OİPD)** koordinasyonunda yürütülen **Ulusal Orman Envanteri (UOE)** çalışmalarına ilişkin resmi dokümanlara dijital erişim sağlamak amacıyla oluşturulmuştur. İlgili belgeler, aynı zamanda [**Elektronik Kamu Alımları Platformu (EKAP)**](https://ekap.kik.gov.tr/EKAP/Ortak/IhaleArama/index.html) üzerinden de yayımlanmıştır. Burada sunulan içerik, akademik, teknik ve idari paydaşlara sistematik erişim kolaylığı sağlamak üzere yapılandırılmıştır.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ergincagataycankaya/UOE-Documents/master/EKLER/ekap.jpg" alt="EKAP UOE İhale İlanı" width="800"/>
